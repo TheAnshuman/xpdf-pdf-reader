@@ -1,0 +1,1 @@
+XPDF is a powerful pdf document reader. With xpdf you can read a pdf document and convert it to jpg if you need it to. If you want to zoom the document to read it more clear, there are zoom in and zoom out buttons which make it easier for you to read.
